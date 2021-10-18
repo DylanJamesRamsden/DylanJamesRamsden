@@ -1,6 +1,6 @@
 ✨ Hi fellow Keyboard Smashers, I am Dylan James Ramsden ✨
 
-I am a junior game developer, who graduated with a BCIS in Game Design and Development in 2020. I am currently doing freelance gameplay programming for a studio
+I am a junior gameplay programmer, who graduated with a BCIS in Game Design and Development in 2020. I am currently doing freelance gameplay programming for a studio
 in Cape Town, South Africa as well as work for Validate Oxford University in the UK.
 
 My interests include gameplay systems (my favorite so far being a building system I recently did for an up and coming game) and creating more engaging and interesting interactions between the player and the game world they find themselves in.
