@@ -1,6 +1,6 @@
 ✨ Hi fellow Keyboard Smashers, I am Dylan James Ramsden ✨
 
-I am a gameplay programmer, currently working on an amazing game known as VAIL VR with the insanely talented team at AEXLAB.
+I am a gameplay programmer, from Johannesburg, South Africa.
 
 My interests include gameplay systems (my favorite so far being a building system I recently did for an up and coming game) and creating more engaging and interesting interactions between the player and the game world they find themselves in.
 
