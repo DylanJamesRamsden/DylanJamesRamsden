@@ -1,11 +1,10 @@
 ✨ Hi fellow Keyboard Smashers, I am Dylan James Ramsden ✨
 
-I am a gameplay programmer, from Johannesburg, South Africa.
+I am a gameplay programmer, with 3 years industry experience, having been a part of shipping 1 title and having worked on multiple unreleased titles.
 
-My interests include gameplay systems (my favorite so far being a building system I recently did for an up and coming game) and creating more engaging and interesting interactions between the player and the game world they find themselves in.
+My interests include gameplay mechanics and creating more engaging and interesting interactions between the player and the game world they find themselves in.
 
-I am very comfortable in C# (and Unity) and have spent the past 2 years learning and working with C++ (and Unreal Engine). I believe I am slowly and surely becoming
-a very strong gameplay programmer and to ensure I do, I am always working on coding demo's and trying new things, so please feel free to follow my progression.
+I am very comfortable with Unreal Engine 4/5 (C++ and Blueprints) as well as Unity (C#). What matters to me most is that every day I learn something new with a focus on becoming better at what I do! And I wholeheartedly believe there is no better way to spend my time than building kick-ass games!
 
 ✨ You can find my portfolio at www.dylanjamesramsden.com ✨
 
